@@ -19,7 +19,7 @@ This Python program prepares an island tour itinerary by determining the mode of
 
     - Navigate to the project folder:
       ```bash
-      cd AEGEANTOUR
+      cd ELEQTRON
       ```
     - Activate the virtual environment:
       ```bash
