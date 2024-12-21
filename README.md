@@ -16,22 +16,18 @@ This Python program prepares an island tour itinerary by determining the mode of
 1. **Clone the repository** or download the project files.
 
 2. **Set up the virtual environment**:
-
-    - Navigate to the project folder:
-      ```bash
-      cd ELEQTRON
-      ```
+   
     - Activate the virtual environment:
       ```bash
       .\env\Scripts\activate
       ```
 
-3. **Run the program**:
+4. **Run the program**:
 
     - After activating the virtual environment, execute the Python script:
       ```bash
       python island_tour.py
       ```
 
-4. **Input Format**:  
+5. **Input Format**:  
    The program expects input from `stdin` in the following format:
